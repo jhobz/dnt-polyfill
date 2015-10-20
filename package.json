@@ -1,0 +1,16 @@
+{
+  "name": "dnt-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for DNT browser APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "dnt",
+    "do not track",
+    "polyfill"
+  ],
+  "author": "jhobs",
+  "license": "MIT"
+}
