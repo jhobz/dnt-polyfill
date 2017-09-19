@@ -2,6 +2,10 @@
   "name": "dnt-polyfill",
   "version": "1.0.0",
   "description": "Polyfill for DNT browser APIs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhobz/dnt-polyfill"
+  },
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
